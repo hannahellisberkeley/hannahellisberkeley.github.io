@@ -1,22 +1,19 @@
 {
-	"movies": [
+	"Professional Experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Employer": "BSR (Business for Social Responsibility)",
+			"Title": "Manager, Technology and Human Right Team",
+			"Years": "January 2020 - February 2023"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Employer": "Human Rights Foundation",
+			"Title": "Technology Strategy Associate",
+			"Years": "May 2019 - January 2020"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Employer": "Berkman Klein Center for Internet & Society, Harvard University",
+			"Title": "Research Assistant",
+			"Years": "October 2018 - May 2019"
 		}
 	]
 }
